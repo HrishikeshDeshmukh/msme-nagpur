@@ -1,0 +1,60 @@
+[
+    {
+        "id":1,
+        "data":"Benefits of Udyam Registration",
+        "url":"https://www.msmedinagpur.gov.in/pdf/Benefitsudyam-English.pdf"
+    },
+
+    {
+        "id":2,
+        "data":"उद्यम पंजीकरण के लाभ",
+        "url":"https://www.msmedinagpur.gov.in/pdf/Benifits-Hindi.pdf"
+    },
+
+    {
+        "id":3,
+        "data":"उद्योग नोंदणीचे फायदे ",
+        "url":"https://www.msmedinagpur.gov.in/pdf/Benifitsudyam-marathi.pdf"
+    },
+
+    {
+        "id":4,
+        "data":"Udyam Registration Booklet",
+        "url":"https://www.msmedinagpur.gov.in/pdf/UdyamRegistrationBooklet.pdf"
+    },
+
+    {
+        "id":5,
+        "data":"Fraud Alerts",
+        "url":"https://www.msmedinagpur.gov.in/pdf/Fraud_Alert.pdf"
+    },
+
+    {
+        "id":6,
+        "data":"ECLGS Guidelines",
+        "url":"https://www.msmedinagpur.gov.in/pdf/ECLGSGuidelines.pdf"
+    },
+    {
+        "id":7,
+        "data":"Distress Assets Funds Guidelines",
+        "url":"https://www.msmedinagpur.gov.in/pdf/DisstressAssetFundGuidelines.pdf"
+    },
+
+    {
+        "id":8,
+        "data":"Clarification of existing UAM/EM II",
+        "url":"https://www.msmedinagpur.gov.in/pdf/Clarification_on_existing_UAM.pdf"
+    },
+
+    {
+        "id":9,
+        "data":"Domestic Trade Fair",
+        "url":"https://msme.gov.in/sites/default/files/MATU_30616.pdf"
+    },
+
+    {
+        "id":10,
+        "data":"Foreign Trade Fair",
+        "url":"https://www.dcmsme.gov.in/schemes/MSME_MDA_Guidelines.pdf"
+    }
+]

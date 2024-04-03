@@ -1,0 +1,48 @@
+[
+    {
+        "id":1,
+        "data":"Quotations / Tenders",
+        "url":"https://www.msmedinagpur.gov.in/pdf/websiteamc.pdf"
+    },
+
+    {
+        "id":2,
+        "data":"Budget & Expenditure",
+        "url":"https://www.msmedinagpur.gov.in/pdf/Budget_Exp.pdf"
+    },
+
+    {
+        "id":3,
+        "data":"Capacity Assessment form",
+        "url":"https://www.msmedinagpur.gov.in/pdf/Capacity_assessment_form_Nagpur.pdf"
+    },
+
+    {
+        "id":4,
+        "data":"PMEGP",
+        "url":"https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp"
+    },
+
+    {
+        "id":5,
+        "data":"EL Application",
+        "url":"https://www.msmedinagpur.gov.in/pdf2/EL-Application.pdf"
+    },
+
+    {
+        "id":6,
+        "data":"Children Education Allowance",
+        "url":"https://www.msmedinagpur.gov.in/pdf2/Children_Education_Allowance.pdf"
+    },
+    {
+        "id":7,
+        "data":"Travelling Allowance Bill Tour",
+        "url":"https://www.msmedinagpur.gov.in/pdf2/Travelling_Allowance_Bill_For_Tour.pdf"
+    },
+
+    {
+        "id":8,
+        "data":"CGHS Medical Reimbursement",
+        "url":"https://www.msmedinagpur.gov.in/pdf2/CGHS_Medical_Reimbursement_Claim_Form.pdf"
+    }
+]

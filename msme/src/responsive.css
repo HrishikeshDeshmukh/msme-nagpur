@@ -1,0 +1,320 @@
+
+/* Mobile View  */
+
+@media screen and (max-width: 480px) {
+    .nav-head {
+        flex-direction: column;
+        height: 80px;
+    }
+    
+
+    .wrap-1{
+        padding-top: 15px;
+       
+    }
+    .head-1, .head-2 {
+        font-size: 10px;
+    }
+
+    .icon {
+        font-size: 15px !important;
+    }
+
+    .logosection {
+        flex-direction: column;
+    }
+
+    .logo-1 img {
+      display: none;
+    }
+
+    .logo-2 h2 {
+        font-size: 13px;
+    }
+
+    .logo-2 img {
+        width: 70px;
+    }
+
+    .logo-3 {
+        display: none;
+    }
+
+    .menu {
+        display: flex;
+    }
+    
+    .navitems-wrap {
+        width: 100%;
+        display: none;
+        justify-content: center;
+        
+    }
+    .nav {
+        display: flex;
+        flex-direction: column;
+        align-items: center !important;
+        justify-content: center !important;
+        text-align: center !important;
+        padding: 0;
+        
+    }
+
+    .navitem {
+        margin-bottom: .70rem;
+    }
+
+    .navitems-wrap.open  {
+        display: flex !important;
+    }
+
+    .embla {
+        height: 130% !important;
+    }
+
+    .embla__slide img {
+        width: 100%;
+        height: 100%;
+      }
+
+
+    .cards-wrap {
+        flex-direction: column;
+    
+    }
+
+    .slide {
+        margin: 15px 0;
+    }
+
+    .button-40 {
+        font-size: 14px !important;
+        padding: .65rem 1rem !important;
+    }
+
+    .slide h2 {
+        font-size: 18px;
+    }
+
+    .slide a {
+        font-size: 14px;
+    }
+
+    .director-content {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .director-img img {
+        width: 280px;
+        height: 200px;
+      justify-content: center;
+    }
+
+    .director-info p  {
+        font-size: 15px;
+        
+    }
+
+    .card-wrap {
+
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center !important ;
+        width: 100%;
+    }
+
+    .orange, .white {
+        display: flex;
+        flex-direction: column;
+        justify-content: center !important;
+        align-items: center;
+    }
+    .card {
+        margin: 10px auto;
+    }
+
+   
+
+    .image {
+        width: auto;
+    }
+
+    .list-wrap {
+        flex-direction: column;
+    }
+
+    .director-info h2{
+        font-size: 19px;
+    }
+
+    .ser-items{
+        font-size: 17px;
+    }
+
+    .table {
+        width: 100%;
+    }
+
+    .table-head th {
+        font-size: 15px;
+    }
+
+    .ele {
+        font-size: 13px;
+        padding: 12px 5px;
+    }
+
+    .slider {
+        height: 100px;
+    }
+    .slider ul {
+        animation: cambio 10s infinite linear;
+    }
+
+    .slider img {
+        width: 120px;
+    }
+
+    .row {
+        flex-direction: column;
+    }
+
+    .col-md-6 {
+        width: 100% !important;
+        max-width: 100%;
+    }
+
+    .contact-ul  {
+        width: 100% !important;
+    }
+
+    .add {
+        width: 100% !important;
+    }
+
+    .inptFld {
+        width: 80% !important;
+        display: flex;
+        flex-direction: column;
+        justify-content: center !important;
+    }
+  }
+
+
+
+
+  /* Small Mobile View  */
+ 
+  @media screen and (max-width:321px){
+    .wrap-1, .wrap-2 {
+        padding: 3px 30px;
+       
+    }
+
+    .logo-2 h2 {
+        font-size: 12px;
+    }
+
+    .director-img img {
+        width: 250px;
+    }
+
+    .director-heading {
+        font-size: 18px;
+    }
+
+    .scrolling-container, .events {
+        width: 250px;
+    }
+
+    .news-items, .event-items {
+        margin: 0
+    }
+
+    .heading {
+        font-size: 18px;
+    }
+  }
+
+
+  /*  tab screens  */
+  @media (min-width: 768px) and (max-width: 1024px) {
+   
+    .logo-1 img{
+        width: 120px;
+      }
+
+    .logo-3 img {
+        width: 140px;
+    }
+
+    .navitem {
+        padding: 0 10px;
+        font-size: 15px;
+        color: #212934;
+        cursor: pointer;
+        text-align: center;
+      }
+
+    .cards-wrap {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .slide {
+        width: 350px;
+        height: 250px;
+        margin-top: 20px;
+    }
+
+    .director-content {
+        flex-direction: column;
+    }
+    .director-img {
+        display: flex;
+        width: 100%;
+    }
+
+    .director-img img{
+        margin: 20px auto;
+    }
+    .director-info {
+        width: 80%;
+        margin: 0 auto;
+     
+    }
+
+    .director-info p {
+        padding: 12px !important;
+        text-align:justify;
+    }
+
+    .news-wrapper {
+        flex-wrap: wrap;
+    }
+
+    .slider ul {
+        animation: cambio 30s infinite linear;
+    }
+
+    .slider img {
+        width: 150px;
+    }
+  }
+
+
+@media  (min-width:481px) and (max-width:767px){
+  
+    .director-content {
+        flex-direction: column;
+    }
+
+    .director-img {
+        margin: 20px auto;
+    }
+
+    .slide {
+        margin: 12px auto;
+    }
+}
