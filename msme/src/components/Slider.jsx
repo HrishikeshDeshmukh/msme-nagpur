@@ -24,7 +24,7 @@ const Slider = () => {
             </div>
 
             <div className='btn-wrap'>
-                <a href="https://www.msmedinagpur.gov.in/registration.html"><button className='button-40'>Register Now</button></a>
+                <a href="https://udyamregistration.gov.in/Government-India/Ministry-MSME-registration.htm"><button className='button-40'>Register Now</button></a>
             </div>
         </>
     )

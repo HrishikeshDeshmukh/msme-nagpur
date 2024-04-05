@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 import Card1 from '../assets/card-1.webp'
 import Card2 from '../assets/card-4.jpg'
 import Card3 from '../assets/card-3.jpg'
@@ -12,19 +13,19 @@ const Cards = () => {
                     <div className="slide">
                         <img src={Card1} alt="" />
                         <h2>Sevagram Mahotsav</h2>
-                        <a href="#"><p>View More</p></a>
+                        <Link to='./more-images'><p>View More</p></Link>
                     </div>
 
                     <div className="slide">
                         <img src={Card2} alt="" />
                         <h2>Sevagram Mahotsav</h2>
-                        <a href="#"><p>View More</p></a>
+                        <Link to='./more-images'><p>View More</p></Link>
                     </div>
 
                     <div className="slide">
                         <img src={Card3} alt="" />
                         <h2>Konkan Mahotsav</h2>
-                        <a href="#"><p>View More</p></a>
+                        <Link to='./more-images'><p>View More</p></Link>
                     </div>
                 </div>
             </div>

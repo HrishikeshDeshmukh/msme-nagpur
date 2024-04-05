@@ -1,5 +1,6 @@
 import React from 'react'
 import Logo from '../assets/Emblem.png'
+import { Link } from 'react-router-dom'
 
 const Footer = () => {
     return (
@@ -60,21 +61,21 @@ const Footer = () => {
                             <h2 className="footer-menu-name"> Quick Links</h2>
                             <ul id="menu-quick-links" className="footer-menu-list">
                                 <li className="menu-item menu-item-type-custom menu-item-object-custom">
-                                    <a target="_blank" rel="noopener noreferrer" href="#">Home</a>
+                                    <Link to='/'>Home</Link>
                                 </li>
                                 <li className="menu-item menu-item-type-custom menu-item-object-custom">
-                                    <a target="_blank" rel="noopener noreferrer" href="#">About</a>
+                                    <Link to='/about' >About</Link>
                                 </li>
                                 <li className="menu-item menu-item-type-post_type menu-item-object-page">
-                                    <a href="#">MSME Act</a>
+                                    <Link to='/act&rules'>MSME Act</Link>
                                 </li>
                                 <li className="menu-item menu-item-type-post_type menu-item-object-page">
-                                    <a href="#">Registration</a>
+                                    <a href="https://udyamregistration.gov.in/Government-India/Ministry-MSME-registration.htm">Registration</a>
                                 </li>
                                 <li className="menu-item menu-item-type-post_type_archive menu-item-object-customer">
-                                    <a href="#">RTI</a></li>
+                                    <a href="https://msme.gov.in/right-information-act">RTI</a></li>
                                 <li className="menu-item menu-item-type-post_type menu-item-object-page">
-                                    <a href="#">Contact</a>
+                                    <Link to="/contact">Contact</Link>
                                 </li>
                             </ul>
                         </div>

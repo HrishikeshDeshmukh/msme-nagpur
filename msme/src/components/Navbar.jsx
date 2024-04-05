@@ -37,13 +37,13 @@ const Navbar = () => {
 
                 <div className="wrap-2">
                     <a className="head-1 icon"
-                        href="https://india.gov.in"><FaFacebook />
+                        href="https://www.facebook.com/msmedinagpur.gov.in/"><FaFacebook />
                     </a>
                     <a className="head-1 icon"
-                        href="https://india.gov.in"><FaTwitter />
+                        href="https://twitter.com/msmedi_nagpur"><FaTwitter />
                     </a>
                     <a className="head-1 icon"
-                        href="https://india.gov.in"><FaYoutube />
+                        href="https://www.youtube.com/channel/UCI7eKvD3NJt38Bu7hdhIruQ"><FaYoutube />
                     </a>
                 </div>
             </div>

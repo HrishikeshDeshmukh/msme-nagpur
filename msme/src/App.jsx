@@ -7,11 +7,11 @@ import About from './pages/About';
 import Acts from './pages/Acts';
 import Contact from './pages/Contact';
 import Documents from './pages/Documents';
-import Grievances from './pages/Grievances';
 import Notices from './pages/Notices';
 import Schemes from './pages/Schemes';
 import Tenders from './pages/Tenders';
 import Service from './pages/Service';
+import MoreImages from './pages/MoreImages';
 
 function App() {
 
@@ -29,6 +29,7 @@ function App() {
         <Route path='/services' element={<Service />} />
         <Route path='/schemes' element={<Schemes />} />
         <Route path='/tenders' element={<Tenders />} />
+        <Route path='/more-images' element={<MoreImages />} />
       </Routes>
     
     </>
